@@ -1,0 +1,8 @@
+.Liste{
+    list-style-type: none;
+    padding: 5em;
+}
+
+.element_liste{
+    margin-bottom: 1em;
+}

@@ -1,0 +1,23 @@
+.appBar{
+    background-color: black;
+    color: white;
+    margin:0;
+    padding-left: 1rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+
+}
+
+.Logo{
+    width: auto;
+    height: auto;
+}
+
+#Title_header{
+    font-size: 1.6rem;
+
+}

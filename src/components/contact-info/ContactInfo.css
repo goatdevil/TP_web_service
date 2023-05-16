@@ -1,0 +1,30 @@
+.container{
+    margin: 2em;
+    display: flex;
+    box-shadow: 1px 1px 2px 1px;
+}
+
+.avatar{
+    width: 9%;
+    height: 9%;
+}
+
+
+.names{
+    font-size: 1rem;
+    text-decoration: underline;
+}
+.contact{
+    display: flex;
+    font-size: 0.5rem;
+}
+
+.element_contact{
+        padding-right: 1em;
+}
+
+.INFO{
+    font-size: 1.5em;
+    text-decoration: underline;
+
+}
